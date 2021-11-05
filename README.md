@@ -2,7 +2,7 @@
 
 Sou Marcelo Andrade, um Ops old school em manutenção evolutiva!
 
-Trabalho com Kubernetes e com boa parte da "stack" cloud native desde 2016. Sou profissional certificado CKA/CKAD, Terraform/Consul e AWS, e tenho mais de quinze anos de experiência trabalhando com Linux e implantações "enterprise" usando software livre no Governo Federal.
+Trabalho com Kubernetes e com boa parte da "stack" cloud native desde 2016. Sou profissional certificado CKAD/CKA/CKS, Terraform/Consul, AWS/Azure, e tenho mais de quinze anos de experiência trabalhando com Linux e implantações "enterprise" usando software livre no Governo Federal.
 
 Você pode acompanhar as certificações [na URL do Credly](https://www.credly.com/users/marcelo-andrade.05858fde/badges), mas elas em si não dizem muito! Quer saber algo sobre qualquer um dos assuntos? Envia uma mensagem que eu respondo!
 
